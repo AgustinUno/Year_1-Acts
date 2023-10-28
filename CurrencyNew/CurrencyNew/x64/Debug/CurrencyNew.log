@@ -1,0 +1,4 @@
+﻿  CurrencyNew.cpp
+D:\C++\CurrencyNew\CurrencyNew\CurrencyNew.cpp(15,10): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+D:\C++\CurrencyNew\CurrencyNew\CurrencyNew.cpp(18,10): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+  CurrencyNew.vcxproj -> D:\C++\CurrencyNew\x64\Debug\CurrencyNew.exe
